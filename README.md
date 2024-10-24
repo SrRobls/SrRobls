@@ -7,9 +7,10 @@
     </h4>
 </span>
 
-<!-- ABOUT YOU -->
+<h1 align="center"><b>Hola, Soy Johan Robles </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">Sobre Mi</h3>
   <p>Soy Johan Robles, un apasionado por la tecnología y el poder que ofrece la programación para convertir ideas en realidad. Me fascina cómo la lógica y la creatividad pueden unirse para resolver problemas complejos y construir soluciones que impacten el mundo digital.<br><br>
 
 Cada nuevo proyecto es una oportunidad para aprender, crear y superar desafíos. La tecnología me permite explorar nuevas fronteras y mejorar continuamente mis habilidades, siempre buscando la manera de aportar algo útil y significativo a la comunidad.
